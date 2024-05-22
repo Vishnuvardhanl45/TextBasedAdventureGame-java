@@ -20,11 +20,13 @@ rightPath(Scanner scanner): Handles the outcome when the player chooses the righ
 getChoice(int maxChoice, Scanner scanner): Validates the user's choice and returns the input.
 handleInvalidChoice(): Prints an error message when the user enters an invalid choice.
 handleGameEnd(Scanner scanner): Handles the game end conditions and prompts the user to play again.
+
 How to Run:
 
 Save the provided code in a file named TextBasedGame.java.
 Compile the Java file using the command javac TextBasedGame.java.
 Run the compiled Java file using the command java TextBasedGame.
+
 How to Contribute:
 
 Feel free to modify the code, add new features, or fix any issues you find. When contributing, make sure to follow good coding practices and include clear commit messages.
